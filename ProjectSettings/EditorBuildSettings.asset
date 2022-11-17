@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cube and Cylinder cat.unity
+    guid: 883e6528c5831024580130161c4f91ae
   m_configObjects: {}
