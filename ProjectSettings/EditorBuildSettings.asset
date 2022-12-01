@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Cube and Cylinder cat.unity
-    guid: 883e6528c5831024580130161c4f91ae
+    path: Assets/FlipBook.unity
+    guid: eb38eddbf4842cc4ea6225a98e068648
   m_configObjects: {}

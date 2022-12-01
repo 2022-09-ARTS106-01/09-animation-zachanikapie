@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: aa345fb58c611cf4882bc8e424a62f39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Professor_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98386d2f610be4740903d6921f2de25c
+      internalID: 352831834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67392d2200be5b47ab223c693a7df06
+      internalID: -205741903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5077d5bff6994496d5f3a4c573936
+      internalID: -1563335174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba5a16d0fd76e4ea2e8e4745cd7562
+      internalID: 2046763413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 192
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e70f7fd2c322449a1913517f1a55ce
+      internalID: -1431939531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 193
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90787f7c347c444f9150d71947dcefc
+      internalID: -1600317839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace2330d5f45ad4591464927e076d8d
+      internalID: 890761787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 191
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5e375299e5c444adcab622caa6729
+      internalID: -421828480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 192
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385f2ef8f25b8d44bb4d2be0a150c18
+      internalID: 1121536465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbaa7bea9d8203448a44db41829ea74
+      internalID: -546858916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 27
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27883f5a952dc4c9c212b1b86b0412
+      internalID: -306625748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565992ce4c72b243bdcfff183ac3130
+      internalID: -1732955168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6badca4656a04b862a0d5e79c9f0b
+      internalID: -2096957577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 38
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa48ac4a6e56d546b5b7311889a98bd
+      internalID: -131132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 128
+        width: 39
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a349242bf8256d4582cd4fb7f3a9fce
+      internalID: -1108457086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 128
+        width: 37
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c0edfccfff7a49abfef7210612d89
+      internalID: -1210722032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 128
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5105c93f9acfc64b8105c5d47a7179e
+      internalID: 367625851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 128
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2f3a9a0535f54eb5e8db90e645389
+      internalID: 348280326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af44a5126c1184cb308add141f64ed
+      internalID: 33956939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab4c2210f8c164f92f3b3c09724870
+      internalID: -1640767536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3c636a6a35fa429b28a6cdaccbadd
+      internalID: 1292117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 34
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48654796f569fc143b614a9d54ab1efb
+      internalID: -1795239575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587882dcce963f24d9fef1bda914bc8e
+      internalID: 208096862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 64
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3285302d5ff43ab48bcf09ff09186ec7
+      internalID: 898493594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 33
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6360034a75b214fbf07ccf8572f6d4
+      internalID: -1997243140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 33
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e16c9e415c0ed4bb5a0fce92f20807
+      internalID: 488473388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 63
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290dff995b43dd14b9bd32e184ab97e3
+      internalID: -1289109024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 21
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8bbda22446f7f44a152d7b444bcdef
+      internalID: -972013811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 26
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f06d9672bb1baa40b003fa200f19e96
+      internalID: -976044329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 24
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f573195a4a31147b9070bb3461a490
+      internalID: 1589463773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 24
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18574064ed72ebc4aab9e5b0fef106a7
+      internalID: -114340202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 24
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614346e84613c04294ede2d7b67ef3a
+      internalID: -1833804023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c3dac30840144f941dcb8a222a3cd
+      internalID: 772385854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 24
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a719128a8f0e143a6fae14926f61ad
+      internalID: 584425987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 23
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27141889dca714d8de108e8020f5fb
+      internalID: -197898978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 23
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd8f694834e904fb1e3f5076b3db46
+      internalID: -1281828622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 818d27ee9238ad1478a317b1f06d4ed7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Professor_Walk_4: -1431939531
+      Professor_Walk_9: -546858916
+      Professor_Walk_26: -1289109024
+      Professor_Walk_30: -114340202
+      Professor_Walk_14: -1108457086
+      Professor_Walk_23: 898493594
+      Professor_Walk_3: 2046763413
+      Professor_Walk_5: -1600317839
+      Professor_Walk_34: -197898978
+      Professor_Walk_10: -306625748
+      Professor_Walk_29: 1589463773
+      Professor_Walk_7: -421828480
+      Professor_Walk_22: 208096862
+      Professor_Walk_16: 367625851
+      Professor_Walk_12: -2096957577
+      Professor_Walk_24: -1997243140
+      Professor_Walk_35: -1281828622
+      Professor_Walk_0: 352831834
+      Professor_Walk_1: -205741903
+      Professor_Walk_27: -972013811
+      Professor_Walk_15: -1210722032
+      Professor_Walk_17: 348280326
+      Professor_Walk_11: -1732955168
+      Professor_Walk_8: 1121536465
+      Professor_Walk_13: -131132449
+      Professor_Walk_25: 488473388
+      Professor_Walk_28: -976044329
+      Professor_Walk_31: -1833804023
+      Professor_Walk_19: -1640767536
+      Professor_Walk_32: 772385854
+      Professor_Walk_33: 584425987
+      Professor_Walk_2: -1563335174
+      Professor_Walk_18: 33956939
+      Professor_Walk_21: -1795239575
+      Professor_Walk_20: 1292117790
+      Professor_Walk_6: 890761787
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
